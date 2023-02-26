@@ -17,3 +17,7 @@ The system set up is relatively simple, lightweight, highly adaptable, and can b
 > 6. ***Additionally, the OpenWeather result is pushed as response via API***
 
 # Example Screenshots:
+<p align="center">
+<img src="Screenshots/front.png" width="50%" />
+<img src="Screenshots/slack.png" width="50%" />
+</p>
