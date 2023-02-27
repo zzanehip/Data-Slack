@@ -20,4 +20,5 @@ The system set up is relatively simple, lightweight, highly adaptable, and can b
 <p align="center">
 <img src="Screenshots/front.png" width="50%" />
 <img src="Screenshots/slack.png" width="50%" />
+<img src="Screenshots/logs.png" width="50%" />
 </p>
